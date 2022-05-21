@@ -1,24 +1,11 @@
-# vrbo-clone
+# JustDial-clone
 
-<img src="https://pbs.twimg.com/media/FNV6maKVgAM1zk7?format=jpg&name=large"></img>
+<img src="https://akam.cdn.jdmagicbox.com/images/icontent/jdrwd_new/Flights.jpg"></img>
 
-Vrbo connects homeowners with families and vacationers looking for something more than a hotel for their trip.
 
-# Authors
 
-- [78640sam](https://github.com/78640sam)
-- [AbhishekKumarJha3098](https://github.com/AbhishekKumarJha3098)
-- [shailendra-k1245](https://github.com/shailendra-k1245)
-- [sanjeetSangam](https://github.com/sanjeetSangam)
-- [yadullamalik](https://github.com/yadullamalik)
 
-# How to look up
 
-Go to this link:-
-
-```
-  vrbo-clone-unit5.netlify.app
-```
 
 
 # Technologies Used for FRONTEND
@@ -38,7 +25,7 @@ Map of location
 Users can rent to stay
 
 # Steps for installation and use:
-1. Clone repo "https://github.com/shailendra-k1245/vrbo-clone.git".
+1. Clone repo "https://github.com/AbhishekKumarJha3098/Justdial.in/edit/main/README.md".
 2. Run "npm i".
 3. Run "npm start".
 4. After this user will be able to see web application opened in the browser.
