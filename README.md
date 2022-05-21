@@ -36,10 +36,7 @@ Users can rent to stay
 9. After finished filling the query details click on search button.
 10. It will be landed on to the results page, which will show hotels and places according to the query.
 11. Click on any HotelCard to book any hotel.
-12. After clicking user will get the details of that particular hotel.
-13. Click on Book now to confirm.
-14. User will be landed on the payments page.
-15. Click on Submit request, it will show an alert "Payment Successful".
+
 
 
 
